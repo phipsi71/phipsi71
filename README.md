@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @phipsi71
 - 👀 I’m interested in open source, concepts
 - 🌱 I’m currently learning kafka
+- 🖌️ Love to paint in watercolour
+- 🌼 Engaging in social projects (not social media)
 
 
 <!---
